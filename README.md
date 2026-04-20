@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <u>[Anatoliy Shevchenko](https://github.com/whytr1ck/whytr1ck/blob/main/README.md)</u> 👋
+# Hi there, I'm <u>[Anatoly Shevchenko](https://github.com/whytr1ck/whytr1ck/blob/main/README.md)</u> 👋
 
 ### Frontend Developer · Vue.js · TypeScript · Nuxt
 
